@@ -1,0 +1,18 @@
+p {
+    color: darkslategray;
+}
+
+body {
+    background-color: salmon;
+}
+
+ul {
+    color : maroon;
+}
+
+section{ 
+    color: white;
+}
+select {
+    color: blue;
+}
